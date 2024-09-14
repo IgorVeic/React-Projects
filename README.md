@@ -14,6 +14,7 @@ Key Features ✨
 - Save Your Plan: Save your planned trips, and review them later using the built-in trip form functionality.
 - Travel Insurance Options: Select an optional travel insurance plan to cover your trips.
 - Responsive Design: Optimized for mobile and desktop with a responsive layout.
+
 Technologies Used 🛠️
 
 - React with functional components
